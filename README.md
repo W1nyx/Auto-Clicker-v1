@@ -7,7 +7,7 @@ I made this so i did not need to install a random auto clicker online.
 Clone the Repository
 
 ```bash
-git clone https://github.com/W1nyx/AutoClicker.git
+git clone https://github.com/W1nyx/Auto-Clicker-v1.git
 ```
 
 Install ```pynput``` & ```keyboard```
