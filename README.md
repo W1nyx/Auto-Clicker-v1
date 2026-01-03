@@ -3,7 +3,7 @@ This was a small project of mine for a starting project with the help of some AI
 
 I made this so i did not need to install a random auto clicker online.
 
-## To Intall
+## To Install
 Clone the Repository or find it in the releases named ```Python Auto Clicker V1```
 
 ```bash
